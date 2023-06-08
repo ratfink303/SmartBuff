@@ -1,10 +1,10 @@
 # SmartBuff
 WoW 1.12.1 addon, updated for TurtleWoW. Automatically buff self/party/raid. Highly customisable.
 
-![SmartBuff](https://github.com/Lexiebean/SmartBuff/raw/main/Preview.png)
-
 Forked from Lexiebean's 1.12a SmartBuff
 https://github.com/Lexiebean/SmartBuff
+
+![SmartBuff](https://github.com/Lexiebean/SmartBuff/raw/main/Preview.png)
 
 Original readme below:
 

@@ -117,6 +117,8 @@ aeldra@sonnenkinder.org
 Changes: 
 Rev     Date        Description
 ------  ----------  -----------------------
+1.12c   2023/07/16  Added new buff: Mage (Brilliance Aura)
+
 1.12b   2023/06/08  Added new buffs: Shaman (Water Shield, Earth Shield)
 
 1.12a   2006/10/01  Fix LUA error 1217 
